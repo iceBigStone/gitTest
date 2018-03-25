@@ -1,2 +1,3 @@
 creatiing a new branch is quick and simple
 这是一个修复bug的过程
+这是一个修复bug2的过程
