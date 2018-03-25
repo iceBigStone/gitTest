@@ -1,8 +1,1 @@
-dfd
-添加一行
-<<<<<<< HEAD
-这是一次新的提交
-=======
-这是一个新的分支，在这里我干了些什么
->>>>>>> featurel
-creating a new branch is quick & simple
+creatiing a new branch is quick and simple
